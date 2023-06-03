@@ -1,1 +1,5 @@
-# matrix-factorization-for-recommendation-systems-research
+## Matrix factorization (collaborative filtering) for recommendation systems (research project)
+
+### **_Authors_**
+- Anastasiia Havryliv (@be-unkind)
+- Yulia Maksumiuk (@juliaaz)
