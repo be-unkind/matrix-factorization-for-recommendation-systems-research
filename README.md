@@ -2,4 +2,4 @@
 
 ### **_Authors_**
 - Anastasiia Havryliv (@be-unkind)
-- Yulia Maksumiuk (@juliaaz)
+- Yulia Maksymiuk (@juliaaz)
