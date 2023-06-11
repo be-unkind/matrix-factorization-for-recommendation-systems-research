@@ -6,4 +6,4 @@
 
 ### Project report
 
-Here you can find project repost, with all the information about theoretical background, implementation and results: [Project report](https://github.com/be-unkind/matrix-factorization-for-recommendation-systems-research/blob/main/matrix_factorization_techniques_report.pdf)
+Here you can find project report, with all the information about theoretical background, implementation and results: [Project report](https://github.com/be-unkind/matrix-factorization-for-recommendation-systems-research/blob/main/matrix_factorization_techniques_report.pdf)
